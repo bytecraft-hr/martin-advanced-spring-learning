@@ -1,5 +1,0 @@
-com\example\demo\entity\Person.class
-com\example\demo\repository\MySQLJDBCExample.class
-com\example\demo\repository\PersonRepository.class
-com\example\demo\controller\PersonController.class
-com\example\demo\service\PersonService.class
