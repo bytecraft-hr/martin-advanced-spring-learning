@@ -4,6 +4,8 @@
     
 
      "java.project.referencedLibraries": [
-     "lib/mysql-connector-j-8.4.0.jar" ]
+    "lib/mysql-connector-j-8.4.0.jar"
+],
+"java.configuration.updateBuildConfiguration": "interactive"
     
 }
